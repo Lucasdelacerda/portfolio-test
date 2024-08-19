@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20vh;
+}
+
+
+.textos {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+
+.texto_vermelho {
+  font-size: 300px;
+  color: var(--red);
+  font-weight: bold;
+  font-size: 1.5rem;
+}
